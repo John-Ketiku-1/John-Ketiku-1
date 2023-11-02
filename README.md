@@ -9,7 +9,7 @@
   </a>
   <br><br>
   <a href="https://github.com/John-Ketiku-1">
-    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
+    <img height="40px" src="Images/Static/github.png" title="Github">
   </a>
   <a href="mailto:john.ketiku@mths.ca">
     <img height="40px" src="Images/Static/gmail.png" title="Mail">
