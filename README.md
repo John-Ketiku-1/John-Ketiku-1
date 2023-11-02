@@ -8,7 +8,7 @@
     <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=385&height=100&lines=name+is+John.;Programmer;Developer.+%F0%9F%98%84">
   </a>
   <br><br>
-  <a href="https://John-Ketiku-1.github.io">
+  <a href="https://github.com/John-Ketiku-1">
     <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
   </a>
   <a href="mailto:john.ketiku@mths.ca">
