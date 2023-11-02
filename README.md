@@ -1,4 +1,4 @@
-## Salut mes amis. I am John 👋
+### Salut mes amis. I am John 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=John-Ketiku-1&style=flat-square&color=40c463">
