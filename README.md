@@ -17,4 +17,16 @@
   <br><br>
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
   <br><br><br><br>
-
+  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=250&lines=Some+Tools+I+Use">
+  <img height="45px" src="Images/Static/tools.png">
+  <hr><br>
+  <table align='center'>
+    <tr>
+      <td align='center'><img width="70" src="Images/Static/python.png" title="Python"></td>
+      <td align='center'><img width="70" src="Images/Static/html.png" title="HTML"></td>
+      <td align='center'><img width="70" src="Images/Static/css.png" title="CSS"></td>
+    </tr>
+    <tr>
+      <td align='center'><img width="70" src="Images/Static/git.png" title="git"></td>
+      <td align='center'><img width="70" src="Images/Static/github.png" title="Github"></td>
+    </tr>
